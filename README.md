@@ -1,8 +1,7 @@
-# App-dev
-My first Repository
+
 		# Heading ***bold + italic text***
 		One Punch Man
-		___
+___
 		___
   One-Punch Man (ワンパンマン Wanpanman) is a Japanese webcomic, manga, and anime series created by ONE. The webcomic started in July 2009, garnering more than 7.9 million total & 20,000 daily views by June 2012; and 186 million as of October 2022. Sheuisha's Young Jump Next picked up the series, as well as commissioned Yusuke Murata, (known for Eyeshield 21) to draw the series with the original writer, ONE. Please feel free to contribute to our site and help us complete our goal to build the most informative site for everything related to ONE and Murata and their manga, One-Punch Man.
   ___
