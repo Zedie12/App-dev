@@ -6,7 +6,8 @@ ___
   ___
   ___
 ***Saitama*** 
-![alt text](image.jpg)
+![saitama](https://user-images.githubusercontent.com/120347840/207211759-9a41a2f9-ff6f-44a4-9591-fb6bac6553c6.jpg)
+
 Saitama (サイタマ, Saitama) is the main protagonist of the series and the titular One-Punch Man. He is currently the most powerful being to exist in the series. Saitama faces a self-imposed existential crisis, as he is now too powerful to gain any thrill from battle.
 Initially just a hero for fun, Saitama later registers to be a professional hero for the Hero Association upon realizing that nobody recognizes him as a hero, and defends his home in Z-City from monsters, villains, and other threats. Under the Hero Association, he is assigned the hero name Caped Baldy (ハゲマント, Hagemanto; Viz: Bald Cape) and is currently A-Class Rank 39.
 ___
